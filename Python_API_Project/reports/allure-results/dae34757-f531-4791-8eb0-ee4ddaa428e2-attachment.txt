@@ -1,0 +1,66 @@
+Response update Data:
+ {
+    "id": "66f0780eb074e1226d3471ed",
+    "badges": {
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "attachments": 0,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "dueComplete": false,
+    "dateLastActivity": "2024-09-22T20:03:28.099Z",
+    "desc": "Description of the new card",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "idBoard": "66f0780d5d4b6cbbfe233f03",
+    "idChecklists": [],
+    "idList": "66f0780e2c743a0f57bae40c",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idShort": 1,
+    "idAttachmentCover": null,
+    "labels": [],
+    "idLabels": [],
+    "manualCoverAttachment": false,
+    "name": "Aditya Card Name updated",
+    "pos": 16384,
+    "shortLink": "yz8K90Tu",
+    "shortUrl": "https://trello.com/c/yz8K90Tu",
+    "start": null,
+    "subscribed": false,
+    "url": "https://trello.com/c/yz8K90Tu/1-aditya-card-name-updated",
+    "cover": {
+        "idAttachment": null,
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null
+}

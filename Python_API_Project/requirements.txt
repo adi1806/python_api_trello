@@ -1,0 +1,5 @@
+pytest==8.3.2
+pytest-xdist==3.6.1   #pip install pytest-xdist ,  for parallel test execution
+#pip install allure-pytest
+pytest-html==4.1.1
+openpyxl

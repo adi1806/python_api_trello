@@ -1,0 +1,19 @@
+Created List Name:
+ AdityaNewList SwmCA
+Response list Data:
+ {
+    "id": "66f0780e2c743a0f57bae40c",
+    "name": "AdityaNewList SwmCA",
+    "closed": false,
+    "color": null,
+    "idBoard": "66f0780d5d4b6cbbfe233f03",
+    "pos": 8192,
+    "type": null,
+    "datasource": {
+        "filter": false
+    },
+    "limits": {}
+}
+Created list Id:
+ 66f0780e2c743a0f57bae40c
+Updated id_list in 'trello' section with value 66f0780e2c743a0f57bae40c
